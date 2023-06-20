@@ -1,3 +1,3 @@
-# curso de _git_&_github
+#  _git_&_github
 
-hola soy stiven y etoy probando los que es git.
+hola soy stiven y estoy probando lo que es git.
